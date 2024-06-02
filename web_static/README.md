@@ -1,0 +1,1 @@
+This is mystatic website
